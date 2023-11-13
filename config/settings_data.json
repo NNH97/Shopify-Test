@@ -111,7 +111,7 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
-    "checkout_sidebar_background_color": "#643cfc",
+    "checkout_sidebar_background_color": "#49ffbe",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
